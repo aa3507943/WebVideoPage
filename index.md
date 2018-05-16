@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/aa3507943/WebVideoPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aa3507943/WebVideoPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset ="utf-8"></meta>
+	<title>滿滿der大平台</title>
+	<style type="text/css">
+	.head{
+		background-color:#003344;color:white;font-weight:bold;font-size:40px;
+		text-align:center;padding:10px;
+	}  
+	.content{
+		width:1600px;margin-left:auto;margin-right:auto;
+	}
+	.box{
+		width:260px;padding:10px;margin:10px;background-color:white;
+		display:inline-block;vertical-align:top;
+		text-align:center;height:180px;
+		<!--background-image:url('img/fw vs kz.png');-->
+	}
+	</style>
+</head>
+<body style="margin:0px;background-color:#eeeeee;">
+	<div class="head">滿滿der大平台</div>
+	<div class="content"> 
+		<div class="box"><a href="https://www.youtube.com/watch?v=npPMPeTcn90" title="狼味四起"><img src="img/fw vs kz.png" width="100%" height="100%" style="left:10px;top:10px"></a></div>
+		<div class="box"><a href="D:/index.html2" title="金胖胖"><img src="img/ppp.png" width="100%" height="100%" style ="left:10px;top:10px;"></div>
+		<div class="box"></div>
+		<div class="box"></div>
+		<div class="box"></div>
+	<div class="content"> 
+		<div class="box"></div>
+		<div class="box"></div>
+		<div class="box"></div>
+		<div class="box"></div>
+		<div class="box"></div>
+	<div class="content"> 
+		<div class="box"></div>
+		<div class="box"></div>
+		<div class="box"></div>
+		<div class="box"></div>
+		<div class="box"></div>
+	
+</body>
+</html>
